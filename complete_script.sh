@@ -1,8 +1,8 @@
 # install iTerm2
-brew cask install iterm2
+#brew cask install iterm2
 
 # install zsh
-brew install zsh
+#brew install zsh
 
 # install oh my zsh
 curl -L http://install.ohmyz.sh | sh
